@@ -1,0 +1,5 @@
+venv
+DB
+repos_json
+__pycache__
+all_chunks.json
