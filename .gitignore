@@ -1,5 +1,7 @@
 venv
 DB
 repos_json
+chroma_db
 __pycache__
 all_chunks.json
+offload
